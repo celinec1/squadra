@@ -728,6 +728,15 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+  - name: Celine Chen
+    github:
+      username: celinec1
+      role: member
+    mailgun:
+      email: cchen@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - marketing@bostonhacks.io
 mailgun:
   routes:
     - name: contact@bostonhacks.io
