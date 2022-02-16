@@ -790,6 +790,16 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Celine Chen
+    github:
+      username: celinec1
+      role: member
+    mailgun:
+      email: cchen@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        -marketing@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
